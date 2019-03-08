@@ -12,6 +12,10 @@ Emmanuel Soubies, Agata Radwanska, Dominique Grall, Laure Blanc-Féraud, Ellen V
 Proc. ISBI, 2019.
 Emmanuel Soubies, Laure Blanc-Féraud, Sébastien Schaub, Ellen Van Obberghen-Schilling.
 
+## Requirements
+
+The code requires the GlobalBioIm library v1.1.1 (or more recent releases)  https://biomedical-imaging-group.github.io/GlobalBioIm/
+
 ## Repository content
 * main function **RecTIRF.m** 
 * function **TIRF_matrix.m** which creates the MA-TIRF matrix given physical parameters
