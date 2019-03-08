@@ -15,7 +15,7 @@ Emmanuel Soubies, Laure Blanc-Féraud, Sébastien Schaub, Ellen Van Obberghen-Sc
 <p align="center">
 <img height="256" src="https://github.com/esoubies/MA-TIRF_Reconstruction/blob/master/Images/data.png"/>
 <img height="256" src="https://github.com/esoubies/MA-TIRF_Reconstruction/blob/master/Images/recons.png"/> <br />
-  <em> Left: MA-TIRF acquisitions. Right: Color-coded depth representation of the reconstructed volume. The color indicates the depth from 0 to 300nm.</em>
+  <em> Left: MA-TIRF acquisitions. Right: Color-coded depth representation of the reconstructed volume (0--300nm).</em>
 </p>
 
 ## Requirements
