@@ -13,8 +13,8 @@ Proc. ISBI, 2019. <br />
 Emmanuel Soubies, Laure Blanc-Féraud, Sébastien Schaub, Ellen Van Obberghen-Schilling.
 
 <p align="center">
-<img src="https://github.com/esoubies/MA-TIRF_Reconstruction/blob/master/Images/data.png"/>
-<img src="https://github.com/esoubies/MA-TIRF_Reconstruction/blob/master/Images/recons.png"/>
+<img height="256" src="https://github.com/esoubies/MA-TIRF_Reconstruction/blob/master/Images/data.png"/>
+<img height="256" src="https://github.com/esoubies/MA-TIRF_Reconstruction/blob/master/Images/recons.png"/>
 </p>
 
 ## Requirements
