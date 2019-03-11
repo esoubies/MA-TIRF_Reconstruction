@@ -12,6 +12,12 @@ Emmanuel Soubies, Agata Radwanska, Dominique Grall, Laure Blanc-Féraud, Ellen V
 Proc. ISBI, 2019. <br />
 Emmanuel Soubies, Laure Blanc-Féraud, Sébastien Schaub, Ellen Van Obberghen-Schilling.
 
+<p align="center">
+<img height="256" src="https://github.com/esoubies/MA-TIRF_Reconstruction/blob/master/Images/data.png"/>
+<img height="256" src="https://github.com/esoubies/MA-TIRF_Reconstruction/blob/master/Images/recons.png"/> <br />
+  <em> Left: MA-TIRF acquisitions. Right: Color-coded depth representation of the reconstructed volume (0--300nm).</em>
+</p>
+
 ## Requirements
 
 The code requires the GlobalBioIm library v1.1.1 (or more recent releases)  https://biomedical-imaging-group.github.io/GlobalBioIm/
