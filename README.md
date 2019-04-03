@@ -20,7 +20,7 @@ Emmanuel Soubies, Laure Blanc-Féraud, Sébastien Schaub, Ellen Van Obberghen-Sc
 
 ## Requirements
 
-The code requires the GlobalBioIm library v1.1.1 (or more recent releases)  https://biomedical-imaging-group.github.io/GlobalBioIm/
+The code requires the GlobalBioIm library v1.1.2 (or more recent releases)  https://biomedical-imaging-group.github.io/GlobalBioIm/
 
 ## Repository content
 * main function **RecTIRF.m** 

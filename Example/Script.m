@@ -13,7 +13,6 @@ clear;%close all
 useGPU(0)
 
 %% General 
-pathToScript='../';                   % Path to main script TIRFrecons.m
 dataname='Example/Acquisitions';      % File name stack TIRF acquisitions (.mat file)
 psfName='Example/psf';                % File name to PSF (.mat file). Only used if deconv is activated
 
@@ -45,4 +44,5 @@ rhoReg=1e-1;       % rho parameter (ADMM) associated to the regularized
 rhoPos=1e-1;       % rho parameter (ADMM) associated to non-negativity
 
 %% Run reconstruction algo
-run([pathToScript,'RecTIRF']);
+cd ..; addpath(pwd); cd Example/
+run('RecTIRF');

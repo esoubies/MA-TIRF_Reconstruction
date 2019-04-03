@@ -136,7 +136,7 @@ for ii=1:length(mu)
     rho=[rhoDT,rhoReg,rhoPos];
     Opt=OptiADMMtirf([],FF,HH,rho,estiback,lambBack);
     if muL1~=0, costPos=[1 2 4]; else costPos=[1 2]; end;
-    Opt.OutOp=OutputOpti(1,[],round(maxIt/10),costPos);
+    Opt.OutOp=OutputOpti(1,round(maxIt/10),costPos);
     Opt.ItUpOut=round(maxIt/10);      % call OutputOpti update every ItUpOut iterations
     Opt.maxiter=maxIt;                % max number of iterations
     Opt.run(zeros_(szRecons));         % run the algorithm
