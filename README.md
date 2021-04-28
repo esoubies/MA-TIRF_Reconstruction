@@ -2,7 +2,7 @@
 
 ## Description
 
-Multi-angle total internal reflection fluorescence microscopy (MA-TIRF) reconstruction algorithm which jointly performs volume reconstruction, deconvolution, and background estimation. More details can be found in the following papers:
+Multi-angle total internal reflection fluorescence microscopy (MA-TIRFM) reconstruction algorithm which jointly performs volume reconstruction, deconvolution, and background estimation. More details can be found in the following papers:
 
 <a href="https://www.nature.com/articles/s41598-018-36119-3" target="_blank">Nanometric Axial Resolution of Fibronectin Assembly Units Achieved with an Efficient Reconstruction Approach for Multi-Angle-TIRF Microscopy.</a>
 Scientific Reports, 9-1, 2019.  <br />
